@@ -25,4 +25,4 @@ streamlit run pychain.py
 ![1](1.png)
 
 ### You can always play around and change the block dificulty, check others block and even validate the chain. Everytime a new block is added, the pychain ledger is able to memorize and display to the users. 
-![2](2.png)]
+![2](2.png)
